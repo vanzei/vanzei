@@ -1,7 +1,7 @@
-### Hi there 👋,
+### Hey there 👋,
 ### I`m Leonardo Vanzei - A data-driven individual, excited to solve business and life problem.
 
-- 🔭 I’m currently working with Distributed Systems responsible for a Geolocation Algorithm of Mobile Networks ( 3G, 4G, 5G...you got it 😅 )
+- 🔭 I’m currently working with Distributed Systems responsible for a Geolocation Algorithm of Mobile Networks( 3G, 4G, 5G...you got it 😅)
 
 ### 🧰 Languages and Tools
 
@@ -25,7 +25,27 @@
 <br />
 
 #
-- 📫 How to reach me: leonardo.vanzei123@gmail.com
+- 📫 How to reach me: [Email](leonardo.vanzei123@gmail.com)
+- 🧑🏽‍💻 Personal Website : [https://www.leovanzei.com/](https://www.leovanzei.com/)
+<br />
+
+
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/leonardovanzei/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@startupme1">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/vanzei_leonardo">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/vanzei/vanzei/blob/main/image/LogoVNZ.png?raw=true" width="350" height="300"/>
+</div>
+
 
 <details>
 - 🤔 I’m looking for interesting individuals, with different skillsets to discuss and build an interesting community.<br />
