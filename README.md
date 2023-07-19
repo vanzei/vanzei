@@ -1,5 +1,5 @@
 ### Hey there 👋,
-### I`m Leonardo Vanzei - A data-driven individual, excited to solve business and life problem.
+### I`m Leonardo Vanzei - A data-driven individual, excited to solve business and life problems.
 
 - 🔭 I’m currently working with Distributed Systems responsible for a Geolocation Algorithm of Mobile Networks( 3G, 4G, 5G...you got it 😅)
 
