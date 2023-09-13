@@ -49,7 +49,7 @@
 <details>
 - 🤔 I’m looking for interesting individuals, with different skillsets to discuss and build an interesting community.<br />
 - 💬 Ask me about anything ! Although I love tech, this is not my only interest... Sports, politics, agriculture, social work... I`m here to help you with the best I can.<br /> 
-- ⚡ Fun fact: I`m originally from Brazil 🇧🇷, but currently I live in the United States 🇺🇸<br />
+- ⚡ Fun fact: I`m originally from Brazil 🇧🇷, but currently I live in the United States 🇺🇸... I love Feijoada 🤤<br />
 
 
 
