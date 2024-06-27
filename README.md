@@ -25,7 +25,6 @@
 
 #
 - 📫 How to reach me: [leonardo.vanzei123@gmail.com](leonardo.vanzei123@gmail.com)
-- 🧑🏽‍💻 Personal Website : [https://www.leovanzei.com/](https://www.leovanzei.com/)
 <br />
 
 
